@@ -1,0 +1,14 @@
+
+
+### post
+POST http://192.168.0.167/control
+Content-Type: application/json
+Accept: application/json
+
+{
+    "state":"on"    
+}
+
+
+### off
+GET http://192.168.0.167/control?state=off

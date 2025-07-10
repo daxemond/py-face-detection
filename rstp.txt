@@ -1,0 +1,2 @@
+For high quality stream1: rtsp://username:password@ipadress:554/stream1
+For low quality stream2: rtsp://username:password@ipadress:554/stream2
